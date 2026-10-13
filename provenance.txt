@@ -1,0 +1,43 @@
+### Who
+
+Antsje van der Leij - https://orcid.org/0009-0002-8550-797X - Presenter and Organizer of the workshop
+Flavio Francisco - https://orcid.org/0009-0008-7312-1512 - Presenter and Organizer of the workshop
+
+The organizing committee UNECSS:
+Chiara Stanchieri
+Barber Vos
+Madleen Grohganz
+Alessia Ricchiuti
+Dennis Vermeulen
+Fleur Rothstegge
+
+Organized and funded by:
+The Royal Netherlands Institute for Sea Research (NIOZ) - https://ror.org/01gntjh03
+Utrecht University (UU) - https://ror.org/04pp8hn57
+
+### What
+Presentations were created using Microsoft 365 PowerPoint version 2609.
+
+## Sources used for creation of workshop:
+FAIR Data for Marine Scientists workshop followed on the 27th until the 29th of May 2026.
+This workshop was organized by Flanders Marine Institute - https://ror.org/0496vr396.
+Workshop organizers:
+Katrina Exter ORCID: 0000-0002-5911-1536
+Joanna Goley ORCID: 0000-0002-4242-8553
+Christina Pavloudi ORCID: 0000-0001-5106-6067
+
+'FAIR Principles: Interpretations and Implementation Considerations'. Jacobsen et al, Data Intelligence 2020 doi: https://doi.org/10.1162/dint_r_00024
+
+### Where
+Theater de Vest, Canadaplein 2, 1811 KE Alkmaar
+Coordinates (decimal): 52.633588, 4.743963
+
+### When
+The presentations were created and reviewed in the time between the 14th and 24th of October.
+
+## How
+1. Collect sources
+2. Prepare Presentations and discussions
+3. Give workshop at Theater de Vest
+4. Collect feedback
+5. Archive presentations for future reference
