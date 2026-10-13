@@ -1,6 +1,6 @@
 # Introduction to FAIR Data Presentation Slides UNECSS 2026
 
-These are the presentation slides for the "Introduction to FAIR Data" workshop given during the Utrecht University NIOZ Early Career Scientist Symposium (UNECSS) of 2026. This workhop was given 25th of september 2026 at Theater de Vest in Alkmaar.
+These are the presentation slides for the "Introduction to FAIR Data" workshop given during the Utrecht University NIOZ Early Career Scientist Symposium (UNECSS) of 2026. This workshop was given 25th of september 2026 at Theater de Vest in Alkmaar.
 
 Version 1.0.0
 
