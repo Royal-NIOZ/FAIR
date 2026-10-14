@@ -68,7 +68,5 @@ These slides are released under [CC0 1.0 Universal](LICENSE): you may copy, adap
 
 We'd love to hear how you're applying FAIR to your own data. Reach out to the presenters via their ORCID profiles above, or [open an issue](https://github.com/Royal-NIOZ/FAIR/issues) in this repository.
 
-## AI Tools used on this dataset
-
-Some portions of this material were developed with the assistance of AI tools: Claude Code for text editing and grammar refinement, and ChatGPT for image generation.
-**Keywords:** FAIR, research data, data management, NIOZ, Utrecht University, workshop, early career scientists, UNECSS
+ChatGPT for image generation.
+**Keywords:** FAIR, researcha, data management, NIOZ, Utrecht University, workshop, e
