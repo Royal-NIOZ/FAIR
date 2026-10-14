@@ -7,7 +7,7 @@ The organizing committee UNECSS:
 Chiara Stanchieri
 Barber Vos
 Madleen Grohganz
-Alessia Ricchiuti
+Alessia Ricciuti
 Dennis Vermeulen
 Fleur Rothstegge
 
@@ -40,6 +40,9 @@ FAIRsharing — standards, databases and policies: <https://fairsharing.org/>
 re3data — registry of research data repositories: <https://www.re3data.org/>
 DMPonline — tool for writing Data Management Plans: <https://dmponline.dcc.ac.uk/>
 NERC Vocabulary Server - vocabularies server for marine sciences <https://vocab.nerc.ac.uk/>
+
+Tools used:
+Some portions of this material were developed with the assistance of AI tools: Claude Code for text editing and grammar refinement, and ChatGPT for image generation.
 
 ### Where
 
