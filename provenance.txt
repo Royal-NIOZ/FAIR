@@ -33,6 +33,7 @@ Christina Pavloudi https://orcid.org/0000-0001-5106-6067
 Papers consulted:
 Wilkinson et al. (2016). "The FAIR Guiding Principles for scientific data management and stewardship.", Scientific Data. <https://doi.org/10.1038/sdata.2016.18>
 Jacobsen et al. 2020 "FAIR Principles: Interpretations and Implementation Considerations.", Data Intelligence https://doi.org/10.1162/dint_r_00024
+Gabelica, M., Bojčić, R., Puljak, L. (2022). "Many researchers were not compliant with their published data sharing statement." Journal of Clinical Epidemiology 150:33–41 https://doi.org/10.1016/j.jclinepi.2022.05.019
 
 Websites consulted:
 GO FAIR — the FAIR principles explained: <https://www.go-fair.org/fair-principles/>
